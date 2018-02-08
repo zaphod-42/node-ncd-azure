@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ncd-io/node-ncd-azure/issues"
   },
-  "homepage": "https://github.com/ncd-io/node-ncd-azure#readme"
+  "homepage": "https://github.com/ncd-io/node-ncd-azure#readme",
+  "dependencies": {
+    "serialport": "^6.0.5"
+  }
 }
