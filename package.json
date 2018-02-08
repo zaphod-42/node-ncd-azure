@@ -1,0 +1,24 @@
+{
+  "name": "node-ncd-azure",
+  "version": "1.0.0",
+  "description": "NCD Gateway for wireless sensors to communicate with Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncd-io/node-ncd-azure.git"
+  },
+  "keywords": [
+    "Azure",
+    "IoT",
+    "NCD"
+  ],
+  "author": "Trey Felton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncd-io/node-ncd-azure/issues"
+  },
+  "homepage": "https://github.com/ncd-io/node-ncd-azure#readme"
+}
